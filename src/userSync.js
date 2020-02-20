@@ -12,6 +12,7 @@ config.setDefaults({
         filter: 'include'
       }
     },
+    aliasSyncEnabled: false,
     syncsPerBidder: 5,
     syncDelay: 3000,
     auctionDelay: 0
